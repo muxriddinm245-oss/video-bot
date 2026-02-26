@@ -1,0 +1,9 @@
+# Muhim fayllar - serverga yuklanmasin
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+bot.log
+*.vbs
+*.bat
